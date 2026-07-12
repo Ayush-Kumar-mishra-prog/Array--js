@@ -15,7 +15,7 @@ if(str===rev){
 /*----For Number-------*/
 
 let num = 83838
-let str num.toString()
+let str = num.toString()
    let rev=""
    for(let i = str.length -1;i>=0;i--){
        rev += str[i]
