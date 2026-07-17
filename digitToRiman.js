@@ -31,4 +31,3 @@ function intToRoman(num) {
 
 console.log(intToRoman(3749)); 
 console.log(intToRoman(58));   
-console.log(intToRoman(1994)); 
